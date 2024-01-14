@@ -17,7 +17,7 @@ Version control is a system that allows you to manage changes to your codebase o
 - Bitbucket
 - SourceForge
 
-# git fetch vs git pull
+# Git fetch vs Git pull
 
 ## Key Difference
 
