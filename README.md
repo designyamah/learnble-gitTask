@@ -1,4 +1,4 @@
-# learnble-gitTask
+# learnble-githubTask
 
 # Version Control
 
@@ -6,7 +6,7 @@ Version control is a system that allows you to manage changes to your codebase o
 
 # Git vs GitHub
 
-## Key Difference
+## Key Differences
 
 -Git is a version control system: It manages and tracks changes in your local codebase.
 -GitHub is a web-based platform built around Git:It hosts Git repositories and adds collaboration features, making it easier for multiple developers to work together.
